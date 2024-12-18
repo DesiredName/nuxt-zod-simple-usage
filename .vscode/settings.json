@@ -1,0 +1,5 @@
+{
+    "editor.formatOnSave": true,
+    "html.format.wrapAttributes": "force-expand-multiline",
+    "vue.format.wrapAttributes": "force-expand-multiline"
+}
